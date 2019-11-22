@@ -30,4 +30,6 @@ It return the detail for the bank for the given ifsc code
 
 http://localhost:5000/api/bank/{ifsc}
 
+date : 22 nov 2019
+
 
